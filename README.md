@@ -151,7 +151,3 @@ Each line is a JSON object:
 ### Disclaimer
 
 PTT content (push counts, deleted posts, new comments) can change over time, so local results may differ from the official grading run. 
-
-```
-```
-
