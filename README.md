@@ -153,7 +153,5 @@ Each line is a JSON object:
 PTT content (push counts, deleted posts, new comments) can change over time, so local results may differ from the official grading run. 
 
 ```
-::contentReference[oaicite:22]{index=22}
 ```
 
-[1]: https://hackmd.io/%40yilun/SyZUcmMha "NYCU Generative Artificial Intelligence Homework 4 - Crawling - HackMD"
